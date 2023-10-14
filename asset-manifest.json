@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RummyCount.com/static/css/main.d1b05096.chunk.css",
-    "main.js": "/RummyCount.com/static/js/main.db4cc57d.chunk.js",
-    "main.js.map": "/RummyCount.com/static/js/main.db4cc57d.chunk.js.map",
-    "runtime~main.js": "/RummyCount.com/static/js/runtime~main.e4c1adc1.js",
-    "runtime~main.js.map": "/RummyCount.com/static/js/runtime~main.e4c1adc1.js.map",
-    "static/js/2.49cb00a6.chunk.js": "/RummyCount.com/static/js/2.49cb00a6.chunk.js",
-    "static/js/2.49cb00a6.chunk.js.map": "/RummyCount.com/static/js/2.49cb00a6.chunk.js.map",
-    "static/js/3.d62f7fe7.chunk.js": "/RummyCount.com/static/js/3.d62f7fe7.chunk.js",
-    "static/js/3.d62f7fe7.chunk.js.map": "/RummyCount.com/static/js/3.d62f7fe7.chunk.js.map",
-    "index.html": "/RummyCount.com/index.html",
-    "precache-manifest.1bec2dbd02cbd0b80644a9bd0508df0b.js": "/RummyCount.com/precache-manifest.1bec2dbd02cbd0b80644a9bd0508df0b.js",
-    "service-worker.js": "/RummyCount.com/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/RummyCount.com/static/css/main.d1b05096.chunk.css.map",
-    "static/media/logo.svg": "/RummyCount.com/static/media/logo.06e73328.svg"
+    "main.css": "./static/css/main.d1b05096.chunk.css",
+    "main.js": "./static/js/main.db4cc57d.chunk.js",
+    "main.js.map": "./static/js/main.db4cc57d.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.bcdec3bf.js",
+    "runtime~main.js.map": "./static/js/runtime~main.bcdec3bf.js.map",
+    "static/js/2.49cb00a6.chunk.js": "./static/js/2.49cb00a6.chunk.js",
+    "static/js/2.49cb00a6.chunk.js.map": "./static/js/2.49cb00a6.chunk.js.map",
+    "static/js/3.d62f7fe7.chunk.js": "./static/js/3.d62f7fe7.chunk.js",
+    "static/js/3.d62f7fe7.chunk.js.map": "./static/js/3.d62f7fe7.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b89982072b459d282315177d25a34a30.js": "./precache-manifest.b89982072b459d282315177d25a34a30.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "./static/css/main.d1b05096.chunk.css.map",
+    "static/media/logo.svg": "./static/media/logo.06e73328.svg"
   }
 }
